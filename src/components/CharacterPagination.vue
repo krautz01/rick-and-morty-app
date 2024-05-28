@@ -10,6 +10,7 @@
 
 <script>
 export default {
+  name: "CharacterPagination",
   props: {
     currentPage: Number,
     totalPages: Number,
